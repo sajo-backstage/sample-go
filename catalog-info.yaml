@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-go
+  annotations:
+    github.com/project-slug: sajo-backstage/sample-go
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sajo-backstage
